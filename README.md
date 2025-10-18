@@ -50,38 +50,50 @@ SQL – Data querying and joins
 5. Build KPIs in Power BI/Tableau
 
 # Data transformation epoch to natural time Example
-![](cal_Example.png)
+![Epoch to natural time example](cal_Example.png)
 
 # Calendar Table Example
+![Calendar](calendar_example.png)
 
 # Data Model
+![Data Model](Data_model.png)
 
 # KPIs & Insights
+![KPIs](KPIs.png)
 
 # Top Performing Projects
-
+![Top 5 projects based on Backers ](Top5.png) ![Top 10 projects based on Amount](Top10.png)
 # Success Percentage Analysis
-
+![Top 6 project percentage wise](Top6%.png)
+![Projects by Outcome](Outcome%.png)
+![Projects Under Range](Range.png)
 # SQL & DAX Highlights
-
+![Dax and SQL Example](DAX.png)
 # Key Findings
-Top Project categories: Product Design, Tabletop Games, Video Games, Hardware, Technology, Shorts, Documentary, Gadgets, Music
-Higher rates for projects with goals under $10K
-Lower rates for projects with goals above or equal to $500K
-Highest number of projects observed in the United States
-Lowest number of projects observed in the Togo, Seychelles, São Tomé and Príncipe
-Seasonal trend: Most projects Created in Q3 (July–September)
-Highest number of successful projects observed in Q1 (January–March)
-Lowest project success rate recorded in Q4 (October–December)
+* Top Project categories: Product Design, Tabletop Games, Video Games, Hardware, Technology, Shorts, Documentary, Gadgets, Music
+* Higher rates for projects with goals under $10K
+*Lower rates for projects with goals above or equal to $500K
+* Highest number of projects observed in the United States
+* Lowest number of projects observed in the Togo, Seychelles, São Tomé and Príncipe
+* Seasonal trend: Most projects Created in Q3 (July–September)
+* Highest number of successful projects observed in Q1 (January–March)
+* Lowest project success rate recorded in Q4 (October–December)
 
 # Conclusion & Next Steps
 
-Conclusion:
-Data reveals key drivers of crowdfunding success
-Next Steps:
-Deploy dashboards online
-Automate currency updates
-Integrate live data APIs
+## Conclusion:
+* Data reveals key drivers of crowdfunding success
+## Next Steps:
+* Deploy dashboards online
+* Automate currency updates
+* Integrate live data APIs
+# Dashboard
+![Tableau Dashboard](tab_dash.png)
+
+![Power BI Dashboard](power_Dash.png)
+
+![Excel Dashboard](Excel_Dash.png)
+
 
 
 
