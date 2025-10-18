@@ -31,16 +31,16 @@ Crowdfunding platforms generate large amounts of raw data (Epoch timestamps, cur
 To clean, model, and visualize crowdfunding data for insights into project success, funding amounts, and backer engagement.
 
 # Data Sources
-Projects.xlsx – Details of all crowdfunding projects (goal, amount raised, dates).
-Category.xlsx – Project categories for analysis.
-Location.xlsx – Geographic location data for projects.
-Creator.xlsx – Information about project creators.
-Projects.sql- SQL file containing project database setup or queries
+**Projects.xlsx**– Details of all crowdfunding projects (goal, amount raised, dates).
+**Category.xlsx** – Project categories for analysis.
+**Location.xlsx** – Geographic location data for projects.
+**Creator.xlsx** – Information about project creators.
+**Projects.sql**- SQL file containing project database setup or queries
 
-Excel – Data cleaning and preparation
-Power BI – Dashboard building and reporting
-Tableau – Data visualization and analysis
-SQL – Data querying and joins
+**Excel** – Data cleaning and preparation
+**Power BI** – Dashboard building and reporting
+**Tableau** – Data visualization and analysis
+**SQL** – Data querying and joins
 
 # Data Preparation Steps
 1. Convert Epoch time → Natural date
