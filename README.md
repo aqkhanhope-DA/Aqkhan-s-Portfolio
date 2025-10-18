@@ -1,19 +1,23 @@
 # Abdul Qadir's Portfolio
 # [Project:1 excel-data-analysis-portfolio](https://github.com/aqkhanhope-DA/Superstore-Profitability-Dashboard)
 
-An interactive Excel dashboard built using Pivot Tables, Pivot Charts, and Slicers to analyze profitability across shipment modes, products, locations, and customer segments.
-# Key Highlights:
+## 📊 Superstore Profitability Excel Dashboard
 
-* Shipment Mode Breakdown — Pie chart showing delivery vs. air shipment contribution.
+This project presents an interactive Excel dashboard analyzing profitability trends across shipment modes, states, cities, and product categories using Pivot Tables, Pivot Charts, and Slicers.
 
-* Top 5 Most Profitable States — Horizontal bar chart ranking U.S. states by total profit.
+### 🔍 Dashboard Highlights
+- **Shipment Mode Analysis** – Distribution of Delivery Truck, Express Air, and Regular Air shipments.
+- **Top 5 Most Profitable States** – Ranked based on total profit.
+- **Top 10 Most Profitable Cities** – Identified strongest revenue-generating cities.
+- **Bottom 3 Least Profitable Products** – Highlighted loss drivers for corrective action.
+- **Interactive Slicers** – Filters for Customer Segment, Product Category, and Ship Mode.
 
-* Top 10 Most Profitable Cities — Column chart listing cities with highest profitability.
+### 🧾 Insights & Impact
+- California and Texas dominate profitability, indicating strong regional performance.
+- Certain products cause major loss and require pricing or discontinuation decisions.
+- Shipment strategy optimization can further improve cost-to-profit ratio.
 
-* Least Profitable Products — Identified top 3 products causing maximum loss.
+### 🛠 Tools Used
+- Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Formatting)
 
-* Interactive Slicers — Customer Segment, Product Category, and Ship Mode filters added for dynamic analysis.
-
-* Business Insight — Enables stakeholders to identify loss areas and regions/products driving profit.
-
-* Tools Used: Microsoft Excel (Pivot Table, Pivot Chart, Slicers, Conditional Formatting)
+This dashboard enables data-driven decisions by offering a quick and clear view of profitability across different business dimensions.
