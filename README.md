@@ -88,9 +88,17 @@ SQL – Data querying and joins
 * Automate currency updates
 * Integrate live data APIs
 # Dashboard
+
 # ![Tableau Dashboard](tab_dash.png)
 
+
+
+
 # ![Power BI Dashboard](power_Dash.png)
+
+
+
+
 
 # ![Excel Dashboard](Excel_Dash.png)
 
