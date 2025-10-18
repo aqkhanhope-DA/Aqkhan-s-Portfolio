@@ -50,6 +50,7 @@ SQL – Data querying and joins
 5. Build KPIs in Power BI/Tableau
 
 # Data transformation epoch to natural time Example
+![](cal_Example.png)
 
 # Calendar Table Example
 
