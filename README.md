@@ -1,5 +1,5 @@
 # [aqkhan's Portfolio](https://github.com/aqkhanhope-DA/Aqkhan-s-Portfolio)
-# [📊 Project:1 Superstore Profitability Excel Dashboard](https://github.com/aqkhanhope-DA/Aqkhan-s-Portfolio/blob/main/Q7.%20Dashboard(Power%20Query%2CPower%20Pivot%2CData%20Modelling%2CPivot%20tables%20and%20charts%2Cslicers)_Solved.xlsx) 
+# [📊 Project:1 Superstore Profitability Excel Dashboard](https://github.com/aqkhanhope-DA/Aqkhan-s-Portfolio?tab=readme-ov-file) 
 
 This project presents an interactive Excel dashboard analyzing profitability trends across shipment modes, states, cities, and product categories using Pivot Tables, Pivot Charts, and Slicers.
 
