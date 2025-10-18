@@ -20,6 +20,23 @@ This project presents an interactive Excel dashboard analyzing profitability tre
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Formatting)
 
 This dashboard enables data-driven decisions by offering a quick and clear view of profitability across different business dimensions.
+## Project Presentation
+
+You can view or download the full project presentation here:  
+[📄 Crowdfunding Project Presentation](Crowdfunding_Project_Presentation.pdf)
+
+### PDF Preview
+[![Crowdfunding Project Presentation](images/pdf_thumbnail.png)](Crowdfunding_Project_Presentation.pdf)
+
+## Project Presentation
+
+You can view or download the full project presentation here:  
+[📄 Crowdfunding Project Presentation](dashboards/Crowdfunding_Project_Presentation.pdf)
+
+### PDF Preview
+[![Crowdfunding Project Presentation](images/pdf_thumbnail.png)](dashboards/Crowdfunding_Project_Presentation.pdf)
+
+
 
 
 
