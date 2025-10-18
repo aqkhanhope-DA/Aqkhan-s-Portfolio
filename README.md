@@ -1,7 +1,5 @@
 # Abdul Qadir's Portfolio
-# [Project:1 excel-data-analysis-portfolio](https://github.com/aqkhanhope-DA/Superstore-Profitability-Dashboard)
-
-## 📊 Superstore Profitability Excel Dashboard
+# [📊 Project:1 Superstore Profitability Excel Dashboard](https://github.com/aqkhanhope-DA/Superstore-Profitability-Dashboard) 
 
 This project presents an interactive Excel dashboard analyzing profitability trends across shipment modes, states, cities, and product categories using Pivot Tables, Pivot Charts, and Slicers.
 
