@@ -73,7 +73,7 @@ These insights can guide crowdfunding creators on **when and how to launch proje
 ---
 
 **Author:** Abdul Qadir Khan  
-**Certification:** Data Analytics Internship – ExcelR  
+**Certification:** Data Analytics Internship – ExcelR/AIVariant 
 **GitHub:** [Your GitHub Profile Link]  
 
 
