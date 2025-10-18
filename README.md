@@ -21,7 +21,7 @@ This project presents an interactive Excel dashboard analyzing profitability tre
 
 This dashboard enables data-driven decisions by offering a quick and clear view of profitability across different business dimensions.
 
-![](Crowdfunding_Project_Presentation.pptx)
+![a](Crowdfunding_Project_Presentation.pptx)
 
 
 
