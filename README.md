@@ -11,6 +11,8 @@ This project presents an interactive Excel dashboard analyzing profitability tre
 - **Top 10 Most Profitable Cities** – Identified strongest revenue-generating cities.
 - **Bottom 3 Least Profitable Products** – Highlighted loss drivers for corrective action.
 - **Interactive Slicers** – Filters for Customer Segment, Product Category, and Ship Mode.
+- [](Superstore_Dashboard.png)
+
 
 ### 🧾 Insights & Impact
 - California and Texas dominate profitability, indicating strong regional performance.
