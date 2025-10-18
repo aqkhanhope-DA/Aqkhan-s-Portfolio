@@ -21,7 +21,7 @@ This project presents an interactive Excel dashboard analyzing profitability tre
 
 This dashboard enables data-driven decisions by offering a quick and clear view of profitability across different business dimensions.
 
-# [📊 Project:1 # Crowdfunding Project Analysis ](https://github.com/aqkhanhope-DA/Aqkhan-s-Portfolio/blob/main/README.md)
+# [📊 Project:1 Crowdfunding Project Analysis ](https://github.com/aqkhanhope-DA/Aqkhan-s-Portfolio/blob/main/README.md)
 
 📊 **Project Overview**  
 This project analyzes **Kickstarter crowdfunding data** to identify trends, successful project factors, and actionable insights for creators and stakeholders. It combines data cleaning, transformation, analysis, and visualization using multiple tools.
