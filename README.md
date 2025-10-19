@@ -64,7 +64,7 @@ To clean, model, and visualize crowdfunding data for insights into project succe
 # Top Performing Projects
 ![Top 5 projects based on Backers ](Top5.png) ![Top 10 projects based on Amount](Top10.png)
 # Success Percentage Analysis
-![Top 6 project percentage wise](Outcome.png)
+![Top 6 project percentage wise](Top6.png)
 ![Projects by Outcome](Outcome.png)
 ![Projects Under Range](Range.png)
 # SQL & DAX Highlights
