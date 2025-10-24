@@ -1,13 +1,3 @@
-### 🧾 Insights & Impact
-- California and Texas dominate profitability, indicating strong regional performance.
-- Certain products cause major loss and require pricing or discontinuation decisions.
-- Shipment strategy optimization can further improve cost-to-profit ratio.
-
-### 🛠 Tools Used
-- Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Formatting)
-
-This dashboard enables data-driven decisions by offering a quick and clear view of profitability across different business dimensions.
-
 # [Project:1 Crowdfunding Kickstarter Project Analysis]()
 
 ## Business Problem & Objective
