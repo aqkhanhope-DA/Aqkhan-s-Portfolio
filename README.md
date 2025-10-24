@@ -60,7 +60,11 @@ This ensures that all time-related insights in the dashboard are clear, reliable
 
 ![Calendar](calendar_example.png)
 
-# Data Model
+# 🧩 Data Model
+
+The model follows a star schema where the Project_Sheet table is linked with Category, Location, Creator, and Calendar dimension tables. 
+This structure enables clean filtering, category-wise analysis, region-based insights, and accurate time-based reporting across the dashboard.
+
 ![Data Model](Data_model.png)
 
 # KPIs & Insights
