@@ -26,9 +26,19 @@ To clean, model, and visualize crowdfunding data for insights into project succe
 4. Convert Goal to USD using static rate
 5. Build KPIs in Power BI/Tableau
 
-# Data transformation epoch to natural time Example
-The first one image was showing the epoch time. That is not able to undertand by anyone. It was converted into natural time and after that
-every one can undertand it. Every can the second it is showing natural date. 
+# 🕒 Date Conversion (Epoch → Human Readable Time)
+
+The original dataset contained timestamps in epoch format (e.g., 1472688000), which are difficult to interpret for non-technical users.
+I converted all epoch timestamps (such as campaign launch and deadline dates) into normal calendar dates (e.g., 2016-09-01) so that business users can easily understand and analyze time-based trends.
+
+### Before Conversion:
+1485972639 (epoch time)
+
+#### After Conversion:
+2/1/2017 (natural readable date)
+
+This conversion makes the dashboard and reports clear for clients, founders, investors, and decision-makers who may not be familiar with epoch time.. 
+
 ![Epoch to natural time example](cal_Example.png)
 
 # Calendar Table Example
