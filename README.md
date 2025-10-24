@@ -13,7 +13,7 @@ To clean, model, and visualize crowdfunding data for insights into project succe
 - **Location.xlsx** – Geographic location data for projects.
 - **Creator.xlsx** – Information about project creators.
 - **Projects.sql**- SQL file containing project database setup or queries
-# Tool Used
+# Tools Used
 - **Excel** – Data cleaning, Data Modeling, Pivot table, building dashboard
 - **Power BI** – Data cleaning in PowerQuery, Dax calulations, Building charts and dashboard
 - **Tableau** – Tableau, Calculation and Bulding Dashboard
