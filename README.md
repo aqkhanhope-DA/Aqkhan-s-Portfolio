@@ -14,10 +14,10 @@ To clean, model, and visualize crowdfunding data for insights into project succe
 - **Creator.xlsx** – Information about project creators.
 - **Projects.sql**- SQL file containing project database setup or queries
 
-- **Excel** – Data cleaning and preparation
-- **Power BI** – Dashboard building and reporting
-- **Tableau** – Data visualization and analysis
-- **SQL** – Data querying and joins
+- **Excel** – Data cleaning, Data Modeling, Pivot table, building dashboard
+- **Power BI** – Data cleaning in PowerQuery, Dax calulations, Building charts and dashboard
+- **Tableau** – Tableau, Calculation and Bulding Dashboard
+- **SQL** – Data querying
 
 # Data Preparation Steps
 1. Convert Epoch time → Natural date
