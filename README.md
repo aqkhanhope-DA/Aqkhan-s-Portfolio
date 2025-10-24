@@ -41,8 +41,24 @@ This conversion makes the dashboard and reports clear for clients, founders, inv
 
 ![Epoch to natural time example](cal_Example.png)
 
-# Calendar Table Example
-![Calendar](calendar_example.png)
+# 📅 Calendar Table Explanation
+
+A Calendar (Date Dimension) table was added to enable accurate and flexible time-based analysis in this project.
+It includes one row per date along with derived fields such as Year, Quarter, Month, Week, and Day names.
+
+Using this table allows the dashboard to:
+
+Group and filter campaigns by Month / Quarter / Year
+
+Perform trend comparisons (MoM, YoY, QoQ)
+
+Enable consistent time intelligence across all visuals
+
+Avoid errors caused by missing or inconsistent date logic in the raw data
+
+This ensures that all time-related insights in the dashboard are clear, reliable, and business-ready.!
+
+[Calendar](calendar_example.png)
 
 # Data Model
 ![Data Model](Data_model.png)
