@@ -41,7 +41,7 @@ This conversion makes the dashboard and reports clear for clients, founders, inv
 
 ![Epoch to natural time example](cal_Example.png)
 
-# 📅 Calendar Table Explanation
+# 📅 Calendar Table
 
 A Calendar (Date Dimension) table was added to enable accurate and flexible time-based analysis in this project.
 It includes one row per date along with derived fields such as Year, Quarter, Month, Week, and Day names.
