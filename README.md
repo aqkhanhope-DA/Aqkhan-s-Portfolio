@@ -56,9 +56,9 @@ Enable consistent time intelligence across all visuals
 
 Avoid errors caused by missing or inconsistent date logic in the raw data
 
-This ensures that all time-related insights in the dashboard are clear, reliable, and business-ready.!
+This ensures that all time-related insights in the dashboard are clear, reliable, and business-ready.
 
-[Calendar](calendar_example.png)
+![Calendar](calendar_example.png)
 
 # Data Model
 ![Data Model](Data_model.png)
