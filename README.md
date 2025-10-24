@@ -28,7 +28,7 @@ To clean, model, and visualize crowdfunding data for insights into project succe
 
 # 🕒 Date Conversion (Epoch → Human Readable Time)
 
-The original dataset contained timestamps in epoch format (e.g., 1472688000), which are difficult to interpret for non-technical users.
+The original dataset contained timestamps in epoch format (e.g., 1485972639), which are difficult to interpret for non-technical users.
 I converted all epoch timestamps (such as campaign launch and deadline dates) into normal calendar dates (e.g., 2016-09-01) so that business users can easily understand and analyze time-based trends.
 
 ### Before Conversion:
