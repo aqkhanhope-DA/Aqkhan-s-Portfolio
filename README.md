@@ -27,6 +27,8 @@ To clean, model, and visualize crowdfunding data for insights into project succe
 5. Build KPIs in Power BI/Tableau
 
 # Data transformation epoch to natural time Example
+The first one image was showing the epoch time. That is not able to undertand by anyone. It was converted into natural time and after that
+every one can undertand it. Every can the second it is showing natural date. 
 ![Epoch to natural time example](cal_Example.png)
 
 # Calendar Table Example
